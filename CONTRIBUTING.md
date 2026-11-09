@@ -17,19 +17,18 @@ Normas que seguimos para trabajar en Grupay. Si algo no está aquí, lo hablamos
 
 ## 🌿 Ramas de trabajo
 
-Formato `tipo/descripcion-corta`, en inglés y en minúsculas:
+Cada uno trabaja en su propia rama, creada desde `develop`:
 
-| Tipo | Uso | Ejemplo |
-|---|---|---|
-| `feat` | Nueva funcionalidad | `feat/user-login` |
-| `fix` | Corrección de un error | `fix/expense-total` |
-| `docs` | Documentación | `docs/api-endpoints` |
-| `refactor` | Reestructurar sin cambiar el comportamiento | `refactor/group-service` |
-| `style` | Formato, sin cambios de lógica | `style/format-css` |
-| `test` | Tests | `test/expense-service` |
-| `chore` | Configuración y mantenimiento | `chore/update-gitignore` |
+| Rama | Persona |
+|---|---|
+| `feature/pablo` | Pablo |
+| `feature/alvaro` | Álvaro |
 
-Las ramas se crean desde `develop` actualizada y se borran solas tras el merge.
+- Cada uno trabaja **solo en su rama**. Nunca se hacen commits en la rama del otro.
+- Antes de empezar cada tarea, actualiza tu rama con lo último de `develop` (en GitHub Desktop: **Branch → Update from develop**).
+- Cuando termines una tarea, abre una PR de tu rama hacia `develop`. **Una tarea por PR.**
+- Mientras tu PR esté abierta, no subas commits de otra tarea: se añadirían a esa PR. Espera al merge.
+- Tu rama no se borra tras el merge: sigues trabajando en ella.
 
 ## ✍️ Commits
 
@@ -45,8 +44,8 @@ Commits pequeños: un cambio lógico por commit.
 
 ## 🔀 Pull Requests
 
-1. Actualiza `develop` (Fetch + Pull) y crea tu rama desde ella.
-2. Haz tus commits y publica la rama.
+1. Actualiza tu rama desde `develop`.
+2. Haz tus commits y súbelos (Push).
 3. Abre la PR hacia `develop` con el título en formato Conventional Commits (`feat(auth): add login form`).
 4. Rellena la plantilla (Summary / Changes / Notes).
 5. Revisa **Files changed** antes de pedir revisión.
@@ -58,4 +57,4 @@ Bugs e ideas se abren como issue con su plantilla. Antes de trabajar en uno, as�
 
 ## 🎨 Diseño
 
-El diseño está en Figma (enlace en [docs/design](docs/design/README.md)). Las capturas exportadas van en `docs/design/screens/` con el formato `NN-nombre-pantalla.png`.
+El diseño está en Figma. Antes de cambiar una pantalla respecto al diseño, lo hablamos.
