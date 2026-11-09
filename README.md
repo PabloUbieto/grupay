@@ -19,13 +19,7 @@ Grupay permite gestionar y planificar gastos compartidos entre grupos de persona
 
 ## 📋 Funcionalidades
 
-- Registro e inicio de sesión con correo y contraseña
-- Amigos mediante enlace de solicitud o código de usuario
-- Creación de gastos compartidos con amigos
-- Aceptar o rechazar invitaciones a un gasto
-- Marcar pagos como pendientes o saldados con aviso al resto del grupo
-- Lectura automática de tickets mediante IA
-- Panel de administración para dar de baja usuarios
+_Por definir._
 
 ## 🛠️ Tecnologías
 
