@@ -41,9 +41,6 @@ _Por definir cuando exista el código._
 grupay/
 ├── .github/            # Plantillas de PR e issues, CODEOWNERS y workflows
 ├── assets/branding/    # Logo e icono
-├── docs/
-│   ├── design/         # Enlace a Figma y capturas exportadas
-│   └── proposal/       # Propuesta del proyecto (PDF)
 ├── CONTRIBUTING.md     # Normas para contribuir
 └── README.md
 ```
