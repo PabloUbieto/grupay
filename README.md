@@ -45,7 +45,7 @@ Antes de tocar nada, lee [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## 👥 Autores
 
-**Pablo Ubieto Foncillas** · [GitHub](https://github.com/PabloUbieto) · [LinkedIn](https://www.linkedin.com/in/pablo-ubieto-foncillas)
+**Pablo Ubieto Foncillas** · [GitHub](https://github.com/PabloUbieto)
 
 **Álvaro López Martínez** · [GitHub](https://github.com/alvaaroms)
 
