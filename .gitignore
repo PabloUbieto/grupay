@@ -1,0 +1,24 @@
+# Editores e IDEs
+.vscode/
+.idea/
+.vs/
+
+# Archivos del sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependencias y builds
+node_modules/
+dist/
+build/
+coverage/
+
+# Variables de entorno (nunca se suben, salvo la plantilla de ejemplo)
+.env
+.env.*
+!.env.example
