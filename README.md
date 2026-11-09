@@ -19,13 +19,7 @@ Grupay permite gestionar y planificar gastos compartidos entre grupos de persona
 
 ## 📋 Funcionalidades
 
-- Registro e inicio de sesión con correo y contraseña
-- Amigos mediante enlace de solicitud o código de usuario
-- Creación de gastos compartidos con amigos
-- Aceptar o rechazar invitaciones a un gasto
-- Marcar pagos como pendientes o saldados con aviso al resto del grupo
-- Lectura automática de tickets mediante IA
-- Panel de administración para dar de baja usuarios
+_Por definir._
 
 ## 🛠️ Tecnologías
 
@@ -41,9 +35,6 @@ _Por definir cuando exista el código._
 grupay/
 ├── .github/            # Plantillas de PR e issues, CODEOWNERS y workflows
 ├── assets/branding/    # Logo e icono
-├── docs/
-│   ├── design/         # Enlace a Figma y capturas exportadas
-│   └── proposal/       # Propuesta del proyecto (PDF)
 ├── CONTRIBUTING.md     # Normas para contribuir
 └── README.md
 ```
@@ -54,7 +45,7 @@ Antes de tocar nada, lee [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## 👥 Autores
 
-**Pablo Ubieto Foncillas** · [GitHub](https://github.com/PabloUbieto) · [LinkedIn](https://www.linkedin.com/in/pablo-ubieto-foncillas)
+**Pablo Ubieto Foncillas** · [GitHub](https://github.com/PabloUbieto)
 
 **Álvaro López Martínez** · [GitHub](https://github.com/alvaaroms)
 
