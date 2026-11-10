@@ -1,21 +1,25 @@
-<p align="center">
+<h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/branding/grupay-logo-dark.png">
     <img src="assets/branding/grupay-logo.png" alt="Grupay" width="420">
   </picture>
-</p>
+</h1>
 
 <p align="center">
   Plataforma web para la gestión inteligente de gastos compartidos con lectura automática de tickets mediante IA.
 </p>
 
-# Grupay
-
-Proyecto Final de Ciclo · Grado Superior en DAW · Centro San Valero.
+<p align="center">
+  <img src="https://img.shields.io/badge/estado-en%20desarrollo-f5a623" alt="Estado: en desarrollo">
+  <img src="https://img.shields.io/badge/proyecto-PFC%20DAW-14a396" alt="Proyecto Final de Ciclo DAW">
+  <img src="https://img.shields.io/badge/entrega-junio%202027-0b6b61" alt="Entrega: junio 2027">
+</p>
 
 ## 📖 Descripción
 
-Grupay permite gestionar y planificar gastos compartidos entre grupos de personas (amigos, compañeros de piso, viajes…). Cada usuario tiene su cuenta, crea grupos, añade gastos y sabe en todo momento qué está pendiente, qué está saldado y quién debe pagar a quién. Los tickets se leen automáticamente mediante IA.
+Grupay permite gestionar y planificar gastos compartidos entre grupos de personas: amigos, compañeros de piso, viajes… Cada usuario tiene su cuenta, crea grupos y añade gastos, y en todo momento sabe qué está pendiente, qué está saldado y quién debe pagar a quién. Los tickets se leen automáticamente mediante IA para no tener que introducir cada gasto a mano.
+
+Proyecto Final de Ciclo del Grado Superior en Desarrollo de Aplicaciones Web (DAW) · Centro San Valero.
 
 ## 📋 Funcionalidades
 
@@ -25,28 +29,41 @@ _Por definir._
 
 _Por definir._
 
-## 🚀 Puesta en marcha
-
-_Por definir cuando exista el código._
-
 ## 📁 Estructura
 
 ```
 grupay/
 ├── .github/            # Plantillas de PR e issues, CODEOWNERS y workflows
 ├── assets/branding/    # Logo e icono
-├── CONTRIBUTING.md     # Normas para contribuir
+├── CONTRIBUTING.md     # Guía de contribución
 └── README.md
 ```
 
 ## 🤝 Contribuir
 
-Antes de tocar nada, lee [CONTRIBUTING.md](CONTRIBUTING.md).
+Las normas de trabajo del equipo (ramas, commits y Pull Requests) están en la [guía de contribución](CONTRIBUTING.md).
 
 ## 👥 Autores
 
-**Pablo Ubieto Foncillas** · [GitHub](https://github.com/PabloUbieto)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/PabloUbieto">
+        <img src="https://github.com/PabloUbieto.png" width="100" alt="Pablo Ubieto Foncillas"><br>
+        <b>Pablo Ubieto Foncillas</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/alvaaroms">
+        <img src="https://github.com/alvaaroms.png" width="100" alt="Álvaro López Martínez"><br>
+        <b>Álvaro López Martínez</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
-**Álvaro López Martínez** · [GitHub](https://github.com/alvaaroms)
+---
 
-2º DAW · Centro San Valero · Curso 2026/2027 · Proyecto Final de Ciclo
+<p align="center">
+  2º DAW · Centro San Valero · Curso 2026/2027
+</p>
