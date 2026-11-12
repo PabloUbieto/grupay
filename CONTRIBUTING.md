@@ -11,6 +11,7 @@ Normas que seguimos para trabajar en Grupay. Si algo no está aquí, lo hablamos
 
 - No se trabaja directamente en `main` ni en `develop`.
 - Todo cambio entra por **Pull Request** y se revisa antes de mergear.
+- Solo Pablo mergea las PR. GitHub bloquea a los demás.
 - **Un propósito por PR.** Si se arregla un bug y se añade una pantalla, son dos PR.
 - Antes de borrar, mover o renombrar archivos o carpetas, o de tocar la configuración del repo, lo hablamos.
 - Nunca se suben contraseñas, claves de API ni archivos `.env`.
@@ -25,6 +26,7 @@ Cada uno trabaja en su propia rama, creada desde `develop`:
 | `feature/alvaro` | Álvaro |
 
 - Cada uno trabaja **solo en su rama**. Nunca se hacen commits en la rama del otro.
+- GitHub lo bloquea: solo el dueño de cada rama puede subir a ella.
 - Antes de empezar cada tarea, actualiza tu rama con lo último de `develop` (en GitHub Desktop: **Branch → Update from develop**).
 - Cuando termines una tarea, abre una PR de tu rama hacia `develop`. **Una tarea por PR.**
 - Mientras tu PR esté abierta, no subas commits de otra tarea: se añadirían a esa PR. Espera al merge.
@@ -41,6 +43,8 @@ docs(readme): add setup instructions
 ```
 
 Commits pequeños: un cambio lógico por commit.
+
+Revisa el mensaje antes de hacer push: GitHub no permite reescribir commits ya subidos.
 
 ## 🔀 Pull Requests
 
