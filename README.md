@@ -10,57 +10,37 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/estado-en%20desarrollo-f5a623" alt="Estado: en desarrollo">
-  <img src="https://img.shields.io/badge/proyecto-PFC%20DAW-14a396" alt="Proyecto Final de Ciclo DAW">
-  <img src="https://img.shields.io/badge/entrega-junio%202027-0b6b61" alt="Entrega: junio 2027">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="License: MIT"></a>
 </p>
 
-## 📖 Descripción
+## Descripción
 
 Grupay permite gestionar y planificar gastos compartidos entre grupos de personas: amigos, compañeros de piso, viajes… Cada usuario tiene su cuenta, crea grupos y añade gastos, y en todo momento sabe qué está pendiente, qué está saldado y quién debe pagar a quién. Los tickets se leen automáticamente mediante IA para no tener que introducir cada gasto a mano.
 
 Proyecto Final de Ciclo del Grado Superior en Desarrollo de Aplicaciones Web (DAW) · Centro San Valero.
 
-## 📋 Funcionalidades
-
-_Por definir._
-
-## 🛠️ Tecnologías
-
-_Por definir._
-
-## 📁 Estructura
+## Estructura
 
 ```
 grupay/
 ├── .github/            # Plantilla de PR, CODEOWNERS y workflows
 ├── assets/branding/    # Logo e icono
 ├── CONTRIBUTING.md     # Guía de contribución
+├── LICENSE
 └── README.md
 ```
 
-## 🤝 Contribuir
+## Contribuir
 
 Las normas de trabajo del equipo (ramas, commits y Pull Requests) están en la [guía de contribución](CONTRIBUTING.md).
 
-## 👥 Autores
+## Autores
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/PabloUbieto">
-        <img src="https://github.com/PabloUbieto.png" width="100" alt="Pablo Ubieto Foncillas"><br>
-        <b>Pablo Ubieto Foncillas</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/alvaaroms">
-        <img src="https://github.com/alvaaroms.png" width="100" alt="Álvaro López Martínez"><br>
-        <b>Álvaro López Martínez</b>
-      </a>
-    </td>
-  </tr>
-</table>
+Pablo Ubieto Foncillas ([@PabloUbieto](https://github.com/PabloUbieto)) y Álvaro López Martínez ([@alvaaroms](https://github.com/alvaaroms)).
+
+## Licencia
+
+Este proyecto se publica bajo la [licencia MIT](LICENSE).
 
 ---
 
