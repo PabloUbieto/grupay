@@ -55,10 +55,6 @@ Revisa el mensaje antes de hacer push: GitHub no permite reescribir commits ya s
 5. Revisa **Files changed** antes de pedir revisión.
 6. Tras la revisión, se mergea con **Create a merge commit**.
 
-## 🐛 Issues
-
-Bugs e ideas se abren como issue con su plantilla. Antes de trabajar en uno, asígnatelo para no pisarnos.
-
 ## 🎨 Diseño
 
 El diseño está en Figma. Antes de cambiar una pantalla respecto al diseño, lo hablamos.
