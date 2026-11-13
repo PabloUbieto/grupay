@@ -33,7 +33,7 @@ _Por definir._
 
 ```
 grupay/
-├── .github/            # Plantillas de PR e issues, CODEOWNERS y workflows
+├── .github/            # Plantilla de PR, CODEOWNERS y workflows
 ├── assets/branding/    # Logo e icono
 ├── CONTRIBUTING.md     # Guía de contribución
 └── README.md
